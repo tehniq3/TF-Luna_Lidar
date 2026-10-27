@@ -1,6 +1,8 @@
 # TF-Luna_Lidar
 used TF-Luna Lidar i2c distance sensor
 
+![poza](https://www.waveshare.com/w/upload/2/21/TF_Lidar_PrincipleE01.jpg)
+
 https://www.waveshare.com/wiki/TF-Luna_LiDAR_Range_Sensor
 
 https://github.com/budryerson/TFLuna-I2C
